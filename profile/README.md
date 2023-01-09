@@ -1,12 +1,10 @@
-## Hi there 👋
+# Projet AL et WEB
+## WEB
+voici les lien pour le [Back](https://github.com/Projet-WEB-AL/BACK) et le [Front](https://github.com/Projet-WEB-AL/FRONT).
 
-<!--
+si vous voulez exécuter veuillez utiliser le dépôt suivant et les commande inscrit dessus: [Global](https://github.com/Projet-WEB-AL/Global)
 
-**Here are some ideas to get you started:**
+Les documents de rendu sont sur le dépôt suivant : [Doc Web](https://github.com/Projet-WEB-AL/Doc-Web)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## AL
+
