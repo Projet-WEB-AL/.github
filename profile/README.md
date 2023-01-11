@@ -8,3 +8,6 @@ Les documents de rendu sont sur le dépôt suivant : [Doc Web](https://github.co
 
 ## AL
 
+Voici le dépôt pour exécuter le projet pour exécuter : [Global](https://github.com/Projet-WEB-AL/Global)
+
+Les documents de rendu sont sur le dépôt suivant : [Doc AL](https://github.com/Projet-WEB-AL/Doc-AL)
