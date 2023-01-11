@@ -1,4 +1,11 @@
 # Projet AL et WEB
+
+Ceci est une organisation créer à partir des deux dépôts suivants :
+
+https://gitlab.istic.univ-rennes1.fr/rtremoureux/projwm_front
+
+https://gitlab.istic.univ-rennes1.fr/ypaillard/proj-wm
+
 ## WEB
 voici les lien pour le [Back](https://github.com/Projet-WEB-AL/BACK) et le [Front](https://github.com/Projet-WEB-AL/FRONT).
 
